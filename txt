@@ -1,0 +1,16 @@
+unzip this file
+install the requirements namely:
+    sklearn
+    feature_engine
+    numpy 
+    pandas
+    seaborn
+    matplotlib
+    warnings
+    xgboost
+    pickle
+    fuzzywuzzy
+    streamlit
+    os
+
+then run the system
