@@ -1,3 +1,4 @@
 Age,Sex,BMI,Children,Smoker,Region,Predicted_Expenses
 22,male,25.020000000000003,1,no,north-eastern,4149.961
 21,male,25.0,0,yes,riftvalley,17979.17
+25,male,25.0,0,yes,riftvalley,17979.17
